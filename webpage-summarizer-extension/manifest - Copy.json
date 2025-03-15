@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Webpage Summarizer",
+  "version": "1.0",
+  "description": "Summarize webpages using an API.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
+
+
